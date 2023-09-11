@@ -1,4 +1,4 @@
-# Module 5 API Individaul Problem Set
+# Module 5 API Individual Problem Set
 
 Please complete one problem from the Module 5 API Problem Set. You will complete an additional problem with the help of a partner.
 
