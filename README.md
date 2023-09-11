@@ -1,6 +1,6 @@
-# Module 8 Problem Set
+# Module 5 API Individaul Problem Set
 
-Please complete two problems from the Module 8 Problem Set.
+Please complete one problem from the Module 5 API Problem Set. You will complete an additional problem with the help of a partner.
 
 ## SPECIAL INSTRUCTIONS
 
